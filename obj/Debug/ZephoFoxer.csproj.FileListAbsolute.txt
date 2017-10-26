@@ -1,0 +1,7 @@
+C:\Users\baran_000\Documents\Visual Studio 2017\Projects\ZephoFox\ZephoFoxer\bin\Debug\ZephoFoxer.dll
+C:\Users\baran_000\Documents\Visual Studio 2017\Projects\ZephoFox\ZephoFoxer\bin\Debug\ZephoFoxer.pdb
+C:\Users\baran_000\Documents\Visual Studio 2017\Projects\ZephoFox\ZephoFoxer\bin\Debug\UnityEngine.dll
+C:\Users\baran_000\Documents\Visual Studio 2017\Projects\ZephoFox\ZephoFoxer\bin\Debug\UnityEngine.xml
+C:\Users\baran_000\Documents\Visual Studio 2017\Projects\ZephoFox\ZephoFoxer\obj\Debug\ZephoFoxer.csproj.CoreCompileInputs.cache
+C:\Users\baran_000\Documents\Visual Studio 2017\Projects\ZephoFox\ZephoFoxer\obj\Debug\ZephoFoxer.dll
+C:\Users\baran_000\Documents\Visual Studio 2017\Projects\ZephoFox\ZephoFoxer\obj\Debug\ZephoFoxer.pdb
